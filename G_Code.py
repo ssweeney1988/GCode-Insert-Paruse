@@ -4,7 +4,6 @@ lower_value= 3.440924
 upper_value= 14.573949
 
 
-
 def finding_lines():
     with open("C:\Python\UM2+_magnetTest.py", "r") as f:
         fileArray = f.readlines()
